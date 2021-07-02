@@ -1,5 +1,5 @@
 owner: devtomatocake # Your GitHub organization or username, where this repository lives
-repo: Status # The name of this repository
+repo: Status
 user-agent: devtomatocake
 
 sites:
@@ -13,8 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.vanillaminigames.eu
-  baseUrl: /Status
+  cname: status2.vanillaminigames.eu
+  # baseUrl: /Status
   theme: light
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
@@ -31,19 +31,19 @@ i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind erreichbar
   incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  activeIncidentSummary: Geöffnet at $DATE mit $POSTS posts
   incidentTitle: Incident $NUMBER Details
   incidentDetails: Incident Details
   incidentFixed: Behoben
   incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
+  incidentOpenedAt: Geöffnet at
+  incidentClosedAt: Geschlossen at
   incidentSubscribe: Subscribe to Updates
   incidentViewOnGitHub: Auf GitHub ansehen
   incidentCommentSummary: Posted at $DATE von $AUTHOR
-  incidentBack: ← Back to all incidents
+  incidentBack: ← Zurück zu allen Vorfällen
   pastIncidents: Vergangene Vorfälle
-  pastIncidentsResolved: Resolved in $MINUTES Minuten mit $POSTS Posts
+  pastIncidentsResolved: Behoben in $MINUTES Minuten mit $POSTS Updates
   liveStatus: Live-Status
   overallUptime: "Overall uptime: $UPTIME"
   overallUptimeTitle: Overall uptime
