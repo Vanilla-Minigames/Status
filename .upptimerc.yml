@@ -11,10 +11,7 @@ sites:
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status2.vanillaminigames.eu
-  # baseUrl: /Status
+  cname: status.vanillaminigames.eu
   theme: light
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
@@ -64,8 +61,8 @@ i18n:
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
   rateLimitExceededErrorHowCanFix: Wie kann ich den Fehler beheben?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededGeneratePAT: Lerne, wie man ein Personal Access Token generiert
+  rateLimitExceededHasSet: Du hast ein Personal Access Token gesetzt.
   rateLimitExceededRemoveToken: Token entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
