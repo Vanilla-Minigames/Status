@@ -27,10 +27,10 @@ status-website:
 i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind erreichbar
-  incidentReport: "Incident #$NUMBER report →"
+  incidentReport: "Vorfall #$NUMBER report →"
   activeIncidentSummary: Geöffnet at $DATE mit $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
+  incidentTitle: Vorfall $NUMBER Details
+  incidentDetails: Vorfall-Details
   incidentFixed: Behoben
   incidentOngoing: Ongoing
   incidentOpenedAt: Geöffnet at
@@ -40,10 +40,10 @@ i18n:
   incidentCommentSummary: Posted at $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Vorfällen
   pastIncidents: Vergangene Vorfälle
-  pastIncidentsResolved: Behoben in $MINUTES Minuten mit $POSTS Updates
+  pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Updates
   liveStatus: Live-Status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
+  overallUptime: "Uptime insgesamt: $UPTIME"
+  overallUptimeTitle: Uptime insgesamt
   averageResponseTime: "Average response time: $TIMEms"
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-Tage response time
