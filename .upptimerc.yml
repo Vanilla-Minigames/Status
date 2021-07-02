@@ -1,14 +1,20 @@
 owner: devtomatocake # Your GitHub organization or username, where this repository lives
 repo: Status
-user-agent: devtomatocake
+user-agent: DEVTomatoCake
 
 sites:
-  - name: Vanilla Minigames
+  - name: Vanilla Minigames Website
     url: https://vanillaminigames.eu
     icon: https://vanillaminigames.eu/images/favicon.ico
-  - name: Tomatenkuchen
+  - name: Tomatenkuchen Website
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
+  - name: Node2 aka Tomatenkuchen
+    url: https://node2.chaoshosting.tk:25508
+    icon: https://tomatenkuchen.eu/assets/images/icon.ico
+  - name: Chaoshosting Webinterface
+    url: https://chaoshosting.ddns.net
+    icon: https://vignette.wikia.nocookie.net/minecraft-mob/images/c/c5/705px-Bee.jpg/revision/latest?cb=20190905050005
 
 status-website:
   cname: status.vanillaminigames.eu
