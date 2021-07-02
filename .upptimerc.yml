@@ -5,6 +5,7 @@ user-agent: devtomatocake
 sites:
   - name: Vanilla Minigames
     url: https://vanillaminigames.eu
+    icon: https://vanillaminigames.eu/images/favicon.ico
   - name: Tomatenkuchen
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
@@ -27,8 +28,8 @@ status-website:
       href: https://discord.gg/JXVDQFf
 
 i18n:
-  activeIncidents: Active Incidents
-  allSystemsOperational: All systems are operational
+  activeIncidents: Aktive Vorfälle
+  allSystemsOperational: Alle Systeme sind erreichbar
   incidentReport: "Incident #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
@@ -41,14 +42,14 @@ i18n:
   incidentViewOnGitHub: Auf GitHub ansehen
   incidentCommentSummary: Posted at $DATE von $AUTHOR
   incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: Resolved in $MINUTES Minuten mit $POSTS Posts
   liveStatus: Live-Status
   overallUptime: "Overall uptime: $UPTIME"
   overallUptimeTitle: Overall uptime
   averageResponseTime: "Average response time: $TIMEms"
   averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
+  sevelDayResponseTime: 7-Tage response time
   responseTimeMs: Response time (ms)
   up: Up
   down: Down
@@ -59,9 +60,9 @@ i18n:
   footer: Diese Seite ist [Open Source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Ratelimit erreicht
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: Was heißt dieser Fehler?
+  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorHowCanFix: Wie kann ich den Fehler beheben?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
   rateLimitExceededHasSet: You have a personal access token set.
@@ -70,18 +71,16 @@ i18n:
   rateLimitExceededCopyPastePAT: Copy and paste your token
   rateLimitExceededSaveToken: Token speichern
   errorTitle: Ein Fehler ist aufgetreten
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
+  errorIntro: Ein Fehler ist beim Abfragen der letzten Statusdetails aufgetreten.
+  errorText: Probiere es in einigen Minuten nochmal.
+  errorHome: Auf die Startseite gehen
+  pastScheduledMaintenance: Vergangene abgeschlossene Maintenance
+  scheduledMaintenance: Abgeschlossene Maintenance
   scheduledMaintenanceSummaryStarted: Started at $DATE für $DURATION Minuten
   scheduledMaintenanceSummaryStarts: Starts at $DATE für $DURATION Minuten
   startedAt: Started at
   startsAt: Starts at
   duration: Dauer
   durationMin: $DURATION Minuten
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
-
-# See https://upptime.js.org/docs/configuration
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
