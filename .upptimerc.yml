@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.vanillaminigames.eu
   baseUrl: /Status
-  theme: ocean # light
+  theme: light
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   favicon: https://tomatenkuchen.eu/assets/images/icon.ico
@@ -25,12 +25,6 @@ status-website:
       href: /
     - title: Discord
       href: https://discord.gg/JXVDQFf
-
-commitMessages:
-  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
-  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
-  statusChange: "$EMOJI $SITE_NAME ist $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
-  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
 
 i18n:
   activeIncidents: Active Incidents
@@ -45,7 +39,7 @@ i18n:
   incidentClosedAt: Closed at
   incidentSubscribe: Subscribe to Updates
   incidentViewOnGitHub: Auf GitHub ansehen
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentCommentSummary: Posted at $DATE von $AUTHOR
   incidentBack: ← Back to all incidents
   pastIncidents: Past Incidents
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
@@ -60,18 +54,18 @@ i18n:
   down: Down
   degraded: Degraded
   ms: ms
-  loading: Loading
+  loading: Laden
   navGitHub: GitHub
   footer: Diese Seite ist [Open Source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Ratelimit erreicht
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededWhatDoesErrorMean: Was heißt dieser Fehler?
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
   rateLimitExceededErrorHowCanFix: How can I fix it?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
   rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededRemoveToken: Token entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
   rateLimitExceededSaveToken: Token speichern
@@ -81,8 +75,8 @@ i18n:
   errorHome: Go to the homepage
   pastScheduledMaintenance: Past Scheduled Maintenance
   scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarted: Started at $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Starts at $DATE für $DURATION Minuten
   startedAt: Started at
   startsAt: Starts at
   duration: Dauer
