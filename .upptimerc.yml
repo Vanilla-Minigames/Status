@@ -12,9 +12,9 @@ sites:
   - name: Node2 aka Tomatenkuchen
     url: https://node2.chaoshosting.tk:25508
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
-  - name: Chaoshosting Webinterface
+  - name: chaoshosting Webinterface
     url: https://chaoshosting.ddns.net
-    icon: https://vignette.wikia.nocookie.net/minecraft-mob/images/c/c5/705px-Bee.jpg/revision/latest?cb=20190905050005
+    icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
 
 status-website:
   cname: status.vanillaminigames.eu
@@ -76,13 +76,13 @@ i18n:
   errorTitle: Ein Fehler ist aufgetreten
   errorIntro: Ein Fehler ist beim Abfragen der letzten Statusdetails aufgetreten.
   errorText: Probiere es in einigen Minuten nochmal.
-  errorHome: Auf die Startseite gehen
+  errorHome: Startseite
   pastScheduledMaintenance: Vergangene abgeschlossene Maintenance
   scheduledMaintenance: Abgeschlossene Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE für $DURATION Minuten
-  scheduledMaintenanceSummaryStarts: Starts at $DATE für $DURATION Minuten
-  startedAt: Started at
-  startsAt: Starts at
+  scheduledMaintenanceSummaryStarted: Gestarted at $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Startet at $DATE für $DURATION Minuten
+  startedAt: Gestartet at
+  startsAt: Startet at
   duration: Dauer
   durationMin: $DURATION Minuten
   incidentCompleted: Abgeschlossen
