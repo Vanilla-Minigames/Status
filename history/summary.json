@@ -40,19 +40,19 @@
     "url": "https://node2.chaoshosting.tk:25508",
     "icon": "https://tomatenkuchen.eu/assets/images/icon.ico",
     "slug": "node2-aka-tomatenkuchen",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 988,
+    "timeDay": 988,
+    "timeWeek": 988,
+    "timeMonth": 988,
+    "timeYear": 988,
     "dailyMinutesDown": {
-      "2021-07-03": 0
+      "2021-07-03": 20
     }
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://chaoshosting.ddns.net",
     "icon": "https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png",
     "slug": "chaoshosting-webinterface",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 703,
     "timeDay": 703,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-03": 0
+    }
   }
 ]
