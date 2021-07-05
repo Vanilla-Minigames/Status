@@ -10,7 +10,7 @@ sites:
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
   - name: chaoshosting Webinterface
-    url: https://chaoshosting.ddns.net
+    url: https://panel.chaoshosting.tk
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
   - name: Node2 & Tomatenkuchen
     url: https://node2.chaoshosting.tk:25508
@@ -19,7 +19,7 @@ sites:
 status-website:
   cname: status.vanillaminigames.eu
   theme: light
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
   name: Status
   favicon: https://tomatenkuchen.eu/assets/images/icon.ico
   introTitle: "Vanilla Minigames & TomatenKuchen Status"
