@@ -9,12 +9,21 @@ sites:
   - name: Tomatenkuchen Website
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
-  - name: Node2 aka Tomatenkuchen
-    url: https://node2.chaoshosting.tk:25508
-    icon: https://tomatenkuchen.eu/assets/images/icon.ico
   - name: chaoshosting Webinterface
     url: https://chaoshosting.ddns.net
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
+  - name: Node2 & Tomatenkuchen
+    url: https://node2.chaoshosting.tk:25508
+    icon: https://tomatenkuchen.eu/assets/images/icon.ico
+  - name: Vanilla Minigames
+    url: https://node2.chaoshosting.tk:25502
+    icon: https://cdn.discordapp.com/icons/608640398595719170/6f6515b9df9b88eb6674fcf1be1b1b82.png
+  - name: Vanilla Minigames Survival
+    url: https://node2.chaoshosting.tk:25501
+    icon: https://cdn.discordapp.com/icons/608640398595719170/6f6515b9df9b88eb6674fcf1be1b1b82.png
+  - name: Vanilla Minigames Build
+    url: https://node2.chaoshosting.tk:25500
+    icon: https://cdn.discordapp.com/icons/608640398595719170/6f6515b9df9b88eb6674fcf1be1b1b82.png
 
 status-website:
   cname: status.vanillaminigames.eu
