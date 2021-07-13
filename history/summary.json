@@ -41,18 +41,17 @@
     "icon": "https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png",
     "slug": "chaoshosting-webinterface",
     "status": "up",
-    "uptime": "91.70%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "91.70%",
-    "uptimeYear": "91.70%",
+    "uptime": "92.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 1096,
-    "timeDay": 1278,
-    "timeWeek": 1031,
+    "timeDay": 1099,
+    "timeWeek": 992,
     "timeMonth": 1096,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2021-07-13": 10,
       "2021-07-12": 29,
       "2021-07-11": 19,
       "2021-07-07": 55,
@@ -67,9 +66,9 @@
     "url": "https://node2.chaoshosting.tk:25508",
     "icon": "https://tomatenkuchen.eu/assets/images/icon.ico",
     "slug": "node2-and-tomatenkuchen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,6 +77,8 @@
     "timeWeek": 958,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   }
 ]
