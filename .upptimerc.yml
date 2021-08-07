@@ -9,10 +9,13 @@ sites:
   - name: Tomatenkuchen Website
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
-  - name: chaoshosting Webinterface
+  - name: chaoshosting Webinterface (Offline bis 21.08.)
     url: https://panel.chaoshosting.tk
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
-  - name: Node2 & Tomatenkuchen
+  - name: chaoshosting Webinterface Temp
+    url: https://webinterface.chaoshosting.tk
+    icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
+  - name: Node2 und/oder Tomatenkuchen
     url: https://node2.chaoshosting.tk:25508
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
 
@@ -23,7 +26,7 @@ status-website:
   name: Status
   favicon: https://tomatenkuchen.eu/assets/images/icon.ico
   introTitle: "Vanilla Minigames & TomatenKuchen Status"
-  # introMessage: hallu .-.
+  # introMessage: .-.
   navbar:
     - title: Status
       href: /
@@ -50,7 +53,7 @@ i18n:
   liveStatus: Live-Status
   overallUptime: "Uptime insgesamt: $UPTIME"
   overallUptimeTitle: Uptime insgesamt
-  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTime: "Durchschnittliche response time: $TIMEms"
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-Tage response time
   responseTimeMs: Response time (ms)
@@ -68,10 +71,10 @@ i18n:
   rateLimitExceededErrorHowCanFix: Wie kann ich den Fehler beheben?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Lerne, wie man ein Personal Access Token generiert
-  rateLimitExceededHasSet: Du hast ein Personal Access Token gesetzt.
+  rateLimitExceededHasSet: Du hast einen Personal Access Token gesetzt.
   rateLimitExceededRemoveToken: Token entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededCopyPastePAT: Kopiere deinen Token und füge ihn hier ein
   rateLimitExceededSaveToken: Token speichern
   errorTitle: Ein Fehler ist aufgetreten
   errorIntro: Ein Fehler ist beim Abfragen der letzten Statusdetails aufgetreten.
@@ -79,7 +82,7 @@ i18n:
   errorHome: Startseite
   pastScheduledMaintenance: Vergangene abgeschlossene Maintenance
   scheduledMaintenance: Abgeschlossene Maintenance
-  scheduledMaintenanceSummaryStarted: Gestarted at $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarted: Gestartet at $DATE für $DURATION Minuten
   scheduledMaintenanceSummaryStarts: Startet at $DATE für $DURATION Minuten
   startedAt: Gestartet at
   startsAt: Startet at
