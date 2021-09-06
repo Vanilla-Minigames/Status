@@ -9,11 +9,8 @@ sites:
   - name: Tomatenkuchen Website
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
-  - name: chaoshosting Webinterface (Offline bis 21.08.)
+  - name: chaoshosting Webinterface
     url: https://panel.chaoshosting.tk
-    icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
-  - name: chaoshosting Webinterface Temp
-    url: https://webinterface.chaoshosting.tk
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
   - name: Node2 und/oder Tomatenkuchen
     url: https://node2.chaoshosting.tk:25508
