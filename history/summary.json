@@ -73,7 +73,7 @@
     "url": "https://node2.chaoshosting.tk:25508",
     "icon": "https://tomatenkuchen.eu/assets/images/icon.ico",
     "slug": "node2-und-oder-tomatenkuchen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
@@ -85,6 +85,7 @@
     "timeMonth": 1053,
     "timeYear": 886,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-10-27": 40,
       "2021-10-26": 36,
       "2021-10-16": 427,
