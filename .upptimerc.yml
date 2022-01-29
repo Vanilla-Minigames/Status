@@ -5,7 +5,7 @@ user-agent: DEVTomatoCake
 sites:
   - name: Vanilla Minigames Website
     url: https://vanillaminigames.eu
-    icon: https://vanillaminigames.eu/images/favicon.ico
+    icon: https://vanillaminigames.eu/img/favicon.ico
   - name: Tomatenkuchen Website
     url: https://tomatenkuchen.eu
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
@@ -23,7 +23,7 @@ status-website:
   name: Status
   favicon: https://tomatenkuchen.eu/assets/images/icon.ico
   introTitle: "Vanilla Minigames & TomatenKuchen Status"
-  # introMessage: .-.
+  introMessage: Statusseite von [TomatenKuchen](https://tomatenkuchen.eu), [Vanilla Minigames](https://vanillaminigames.eu) und [chaoshosting](https://panel.chaosbothosting.de)
   navbar:
     - title: Status
       href: /
@@ -41,19 +41,19 @@ i18n:
   incidentOngoing: Ongoing
   incidentOpenedAt: Geöffnet at
   incidentClosedAt: Geschlossen at
-  incidentSubscribe: Subscribe to Updates
+  incidentSubscribe: Updates folgen
   incidentViewOnGitHub: Auf GitHub ansehen
-  incidentCommentSummary: Posted at $DATE von $AUTHOR
+  incidentCommentSummary: Erstellt am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Vorfällen
   pastIncidents: Vergangene Vorfälle
   pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Updates
   liveStatus: Live-Status
   overallUptime: "Uptime insgesamt: $UPTIME"
   overallUptimeTitle: Uptime insgesamt
-  averageResponseTime: "Durchschnittliche response time: $TIMEms"
+  averageResponseTime: "Durchschnittlicher Ping: $TIMEms"
   averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-Tage response time
-  responseTimeMs: Response time (ms)
+  sevelDayResponseTime: 7-Tage-Ping
+  responseTimeMs: Ping (ms)
   up: Up
   down: Down
   degraded: Degraded
@@ -79,10 +79,10 @@ i18n:
   errorHome: Startseite
   pastScheduledMaintenance: Vergangene abgeschlossene Maintenance
   scheduledMaintenance: Abgeschlossene Maintenance
-  scheduledMaintenanceSummaryStarted: Gestartet at $DATE für $DURATION Minuten
-  scheduledMaintenanceSummaryStarts: Startet at $DATE für $DURATION Minuten
-  startedAt: Gestartet at
-  startsAt: Startet at
+  scheduledMaintenanceSummaryStarted: Gestartet am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION Minuten
+  startedAt: Gestartet am
+  startsAt: Startet am
   duration: Dauer
   durationMin: $DURATION Minuten
   incidentCompleted: Abgeschlossen
