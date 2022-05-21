@@ -13,7 +13,7 @@ sites:
     url: https://panel.chaosbothosting.de
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
   - name: Node2 und/oder Tomatenkuchen
-    url: https://node2.chaoshosting.tk:25508
+    url: https://api.tomatenkuchen.eu/api/stats
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
 
 status-website:
