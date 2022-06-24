@@ -12,7 +12,10 @@ sites:
   - name: chaoshosting Webinterface
     url: https://panel.chaosbothosting.de
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
-  - name: Node2 und/oder Tomatenkuchen
+  - name: Node2
+    url: https://node2.chaosbothosting.de
+    icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
+  - name: TomatenKuchen
     url: https://api.tomatenkuchen.eu/api/stats
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
 
@@ -51,7 +54,7 @@ i18n:
   overallUptime: "Uptime insgesamt: $UPTIME"
   overallUptimeTitle: Uptime insgesamt
   averageResponseTime: "Durchschnittlicher Ping: $TIMEms"
-  averageResponseTimeTitle: Average response
+  averageResponseTimeTitle: Durchschnittliche Antwortzeit
   sevelDayResponseTime: 7-Tage-Ping
   responseTimeMs: Ping (ms)
   up: Up
