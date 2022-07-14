@@ -1,7 +1,7 @@
 url: https://panel.chaosbothosting.de
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2022-07-13T23:19:00.642Z
+status: down
+code: 503
+responseTime: 550
+lastUpdated: 2022-07-14T20:47:17.937Z
 startTime: Mon Sep 06 2021 16:42:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
