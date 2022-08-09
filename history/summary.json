@@ -58,8 +58,8 @@
     "slug": "chaoshosting-webinterface",
     "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "98.94%",
     "time": 1155,
@@ -68,7 +68,7 @@
     "timeMonth": 916,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2022-08-09": 0,
+      "2022-08-09": 1,
       "2022-07-30": 136,
       "2022-07-15": 1160,
       "2022-07-14": 193,
@@ -161,18 +161,18 @@
     "icon": "https://cdn.discordapp.com/emojis/867542636826722314.png",
     "slug": "discords-server",
     "status": "down",
-    "uptime": "4.56%",
-    "uptimeDay": "4.56%",
-    "uptimeWeek": "4.56%",
-    "uptimeMonth": "4.56%",
-    "uptimeYear": "4.56%",
+    "uptime": "3.08%",
+    "uptimeDay": "3.08%",
+    "uptimeWeek": "3.08%",
+    "uptimeMonth": "3.08%",
+    "uptimeYear": "3.08%",
     "time": 117,
     "timeDay": 117,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 1
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://cdn.discordapp.com/emojis/867542636826722314.png",
     "slug": "discords-botlist",
     "status": "down",
-    "uptime": "4.56%",
-    "uptimeDay": "4.56%",
-    "uptimeWeek": "4.56%",
-    "uptimeMonth": "4.56%",
-    "uptimeYear": "4.56%",
+    "uptime": "0.65%",
+    "uptimeDay": "0.65%",
+    "uptimeWeek": "0.65%",
+    "uptimeMonth": "0.65%",
+    "uptimeYear": "0.65%",
     "time": 12,
     "timeDay": 12,
     "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 1
     }
   },
   {
@@ -201,18 +201,18 @@
     "icon": "https://cdn.discordapp.com/emojis/867542636826722314.png",
     "slug": "discords-templates",
     "status": "down",
-    "uptime": "4.53%",
-    "uptimeDay": "4.53%",
-    "uptimeWeek": "4.53%",
-    "uptimeMonth": "4.53%",
-    "uptimeYear": "4.53%",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 14,
     "timeDay": 14,
     "timeWeek": 14,
     "timeMonth": 14,
     "timeYear": 14,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 1
     }
   }
 ]
