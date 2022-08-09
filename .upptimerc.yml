@@ -21,15 +21,6 @@ sites:
   - name: TomatenKuchen
     url: https://api.tomatenkuchen.eu/api/stats
     icon: https://tomatenkuchen.eu/assets/images/icon.ico
-  - name: Discords Server
-    url: https://discords.com/
-    icon: https://cdn.discordapp.com/emojis/867542636826722314.png
-  - name: Discords Botlist
-    url: https://discords.com/bots/
-    icon: https://cdn.discordapp.com/emojis/867542636826722314.png
-  - name: Discords Templates
-    url: https://discords.com/templates/
-    icon: https://cdn.discordapp.com/emojis/867542636826722314.png
 
 status-website:
   cname: status.vanillaminigames.eu
@@ -49,13 +40,13 @@ i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind erreichbar
   incidentReport: "Vorfall #$NUMBER report →"
-  activeIncidentSummary: Geöffnet at $DATE mit $POSTS posts
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Posts
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall-Details
   incidentFixed: Behoben
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Geöffnet at
-  incidentClosedAt: Geschlossen at
+  incidentOngoing: Offen
+  incidentOpenedAt: Geöffnet am
+  incidentClosedAt: Geschlossen am
   incidentSubscribe: Updates folgen
   incidentViewOnGitHub: Auf GitHub ansehen
   incidentCommentSummary: Erstellt am $DATE von $AUTHOR
