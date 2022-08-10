@@ -115,19 +115,19 @@
     "url": "https://node3.chaoshosting.eu/",
     "icon": "https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png",
     "slug": "node3",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 442,
-    "timeDay": 442,
-    "timeWeek": 442,
-    "timeMonth": 442,
-    "timeYear": 442,
+    "status": "up",
+    "uptime": "98.47%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 19
     }
   },
   {
