@@ -13,7 +13,7 @@
     "time": 138,
     "timeDay": 144,
     "timeWeek": 168,
-    "timeMonth": 151,
+    "timeMonth": 145,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -41,7 +41,7 @@
     "time": 131,
     "timeDay": 249,
     "timeWeek": 186,
-    "timeMonth": 163,
+    "timeMonth": 158,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -65,7 +65,7 @@
     "time": 1107,
     "timeDay": 620,
     "timeWeek": 582,
-    "timeMonth": 521,
+    "timeMonth": 520,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2022-08-16": 99,
@@ -105,7 +105,7 @@
     "time": 453,
     "timeDay": 427,
     "timeWeek": 425,
-    "timeMonth": 394,
+    "timeMonth": 389,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2022-07-12": 115
@@ -116,16 +116,16 @@
     "url": "https://node3.chaoshosting.eu/",
     "icon": "https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png",
     "slug": "node3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "97.33%",
+    "uptimeDay": "97.31%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.00%",
     "time": 423,
     "timeDay": 406,
     "timeWeek": 476,
-    "timeMonth": 423,
+    "timeMonth": 421,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2022-09-09": 39,
@@ -152,7 +152,7 @@
     "time": 471,
     "timeDay": 496,
     "timeWeek": 490,
-    "timeMonth": 485,
+    "timeMonth": 481,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2022-09-04": 22,
