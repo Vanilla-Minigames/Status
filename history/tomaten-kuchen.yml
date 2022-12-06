@@ -1,7 +1,7 @@
 url: https://api.tomatenkuchen.eu/api/stats
-status: down
-code: 502
-responseTime: 540
-lastUpdated: 2022-12-06T14:18:01.532Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2022-12-06T21:22:48.076Z
 startTime: Fri Jun 24 2022 17:06:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
