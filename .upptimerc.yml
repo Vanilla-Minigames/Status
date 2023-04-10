@@ -3,12 +3,6 @@ repo: Status
 user-agent: DEVTomatoCake
 
 sites:
-  - name: Vanilla Minigames Website
-    url: https://vanillaminigames.eu
-    icon: https://vanillaminigames.eu/img/favicon.ico
-  - name: Tomatenkuchen Website
-    url: https://tomatenkuchen.eu
-    icon: https://tomatenkuchen.eu/assets/images/icon.ico
   - name: chaoshosting Webinterface
     url: https://panel.chaoshosting.eu
     icon: https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png
@@ -72,7 +66,7 @@ i18n:
   rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
   rateLimitExceededErrorHowCanFix: Wie kann ich den Fehler beheben?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededErrorFix: Du kannst eine Stunde lang abwarten, bis das Limit deiner IP-Adresse zurückgesetzt wird. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Lerne, wie man ein Personal Access Token generiert
   rateLimitExceededHasSet: Du hast einen Personal Access Token gesetzt.
   rateLimitExceededRemoveToken: Token entfernen
