@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 579,
-    "timeDay": 583,
-    "timeWeek": 598,
-    "timeMonth": 553,
+    "timeDay": 602,
+    "timeWeek": 579,
+    "timeMonth": 561,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-07-27": 19,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 631,
-    "timeWeek": 534,
+    "timeDay": 324,
+    "timeWeek": 514,
     "timeMonth": 467,
-    "timeYear": 414,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2023-04-30": 17
     }
@@ -48,15 +48,15 @@
     "icon": "https://cdn.discordapp.com/attachments/588350269570678794/860563824142450688/unknown.png",
     "slug": "node4",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 507,
-    "timeDay": 494,
-    "timeWeek": 457,
-    "timeMonth": 431,
+    "timeDay": 496,
+    "timeWeek": 465,
+    "timeMonth": 437,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2023-07-25": 114,
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 505,
-    "timeDay": 662,
-    "timeWeek": 637,
-    "timeMonth": 529,
+    "timeDay": 665,
+    "timeWeek": 632,
+    "timeMonth": 539,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2023-06-24": 2,
@@ -98,8 +98,7 @@
       "2022-08-24": 30,
       "2022-08-22": 16,
       "2022-08-21": 56,
-      "2022-08-11": 31,
-      "2022-08-09": 20
+      "2022-08-11": 31
     }
   }
 ]
