@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 643,
-    "timeDay": 512,
-    "timeWeek": 540,
-    "timeMonth": 479,
+    "timeDay": 534,
+    "timeWeek": 555,
+    "timeMonth": 483,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2024-02-16": 47,
@@ -35,14 +35,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 570,
-    "timeWeek": 416,
-    "timeMonth": 394,
-    "timeYear": 444,
-    "dailyMinutesDown": {
-      "2023-04-30": 17
-    }
+    "time": 438,
+    "timeDay": 499,
+    "timeWeek": 442,
+    "timeMonth": 399,
+    "timeYear": 445,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TomatenKuchen",
@@ -56,17 +54,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 532,
-    "timeDay": 599,
-    "timeWeek": 511,
-    "timeMonth": 451,
+    "timeDay": 571,
+    "timeWeek": 534,
+    "timeMonth": 455,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2023-11-05": 1,
       "2023-10-18": 108,
       "2023-10-13": 20,
       "2023-06-24": 2,
-      "2023-05-24": 8,
-      "2023-04-30": 17
+      "2023-05-24": 8
     }
   }
 ]
